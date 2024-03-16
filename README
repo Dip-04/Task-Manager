@@ -1,0 +1,16 @@
+Project Scenario:
+Create a straightforward "Task Manager" application, allowing users to add, mark completion, and
+remove tasks effortlessly.
+Implementation Details:
+HTML Structure:
+Design a user-friendly interface with an input field for adding tasks and a list for displaying them.
+CSS Styling:
+Apply clean and intuitive styling to enhance the overall appearance of the application.
+JavaScript Functionality:
+Implement core functionality such as adding tasks, marking them as complete, and removing tasks.
+Leverage local storage to retain tasks even after a page refresh.
+Responsiveness:
+Prioritize responsiveness to guarantee a seamless user experience across various devices.
+Optional Features:
+Integrate additional elements, such as a date/time picker for task deadlines or a filter for completed
+and active tasks, based on personal preferences.
